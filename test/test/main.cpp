@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("test travis");
+	printf("test teamcity");
 	return 0;
 }
