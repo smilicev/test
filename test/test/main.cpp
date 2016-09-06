@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("test teamcity");
+	printf("test teamcity 1.0");
 	return 0;
 }
