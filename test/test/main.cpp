@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("test teamcity 1.5");
+	printf("test teamcity 1.8");
 	printf("Next print");
 
 	return -1;
